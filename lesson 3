@@ -1,0 +1,36 @@
+# string_sample = "Hello world world"
+#  string_sample2 = "first letterR is lowErcase"
+#  string_sample3 = " extra whitespace string "
+# string_sample = "der Fluß"
+# print(string_sample[5:10].upper())
+# print(string_sample.lower())
+# print(string_sample.casefold())
+# print(string_sample2.capitalize())
+# print(string_sample3.strip(None))
+# print(string_sample.split())
+# print(string_sample.find('world'))
+# print(string_sample.count('world'))
+# salary = 2000
+# sample = "Hello {} {}.Your salary is {} euro"
+# last = "smith"
+# first = "John"
+# print(sample.format(first, last, salary)
+#print(f'Hello {first.upper()} {last.upper()}.Your salary is {salary:.2f}')
+#print(r'\n Hello world') игнор символ
+# x = input(str())
+# if x ==100:
+#     print ('x is bigger 50')
+# elif x>100:
+#     print("x is larger 100")
+# else:
+#     print("x is lees then 100")
+
+
+
+# isikukood = input("please enter id:")
+# if len(isikukood) == 11:
+#     print("id is ok!")
+# elif len(isikukood)>11:
+#     print("Id is loo long")
+# else:
+#     print("ID is too short")
