@@ -34,8 +34,8 @@ print(text)
 
 # Write a code to return "Hello my name is Jack"
 example_string4 = "hello my name is jack"
-print(example_string4[0].upper() + example_string4[1:16] + example_string4[17].upper() + example_string4[18:25])
-
+print(example_string4[0].upper() + example_string4[1:17] + example_string4[17].upper() + example_string4[18:25])
+print(example_string4[0].upper() + example_string4[1:17] + example_string4[17:25].capitalize())
 
 # Write a code to return formatted string "Hello, my name is Jack"
 var1 = " jack"
